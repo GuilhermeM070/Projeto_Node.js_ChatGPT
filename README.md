@@ -29,31 +29,32 @@ Antes de começar, certifique-se de ter:
 1️⃣ Clone este repositório:  
 ```sh
 git clone https://github.com/GuilhermeM070/Projeto-Node.js-chatGPT.git
-2️⃣ Acesse a pasta do projeto:
 
+2️⃣ Acesse a pasta do projeto:
 sh
 Copiar
 cd Projeto-Node.js-chatGPT
-3️⃣ Instale as dependências:
 
+3️⃣ Instale as dependências:
 sh
 Copiar
 npm install
-4️⃣ Crie um arquivo .env na raiz do projeto e adicione sua chave da OpenAI:
 
+4️⃣ Crie um arquivo .env na raiz do projeto e adicione sua chave da OpenAI:
 env
 Copiar
 OPENAI_API_KEY=SUA_CHAVE_AQUI
-5️⃣ Inicie o servidor:
 
+5️⃣ Inicie o servidor:
 sh
 Copiar
 npm start
-6️⃣ Acesse a API no navegador ou via Postman:
 
+6️⃣ Acesse a API no navegador ou via Postman:
 arduino
 Copiar
 http://localhost:3000
+
 📂 Estrutura do Projeto
 graphql
 Copiar
@@ -65,6 +66,7 @@ Copiar
 ├── 📜 .env.example  # Exemplo de configuração das variáveis de ambiente
 ├── 📜 package.json  # Dependências e scripts do projeto
 └── 📜 README.md  # Documentação do projeto
+
 🎯 Próximos Passos
 🔹 Melhorar o tratamento de erros
 🔹 Criar uma interface web para interação com a API
